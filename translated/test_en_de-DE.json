@@ -1,0 +1,31 @@
+[
+{
+  "author" : "type-scanner",
+  "fromCode" : true,
+  "id" : 37,
+  "isHidden" : false,
+  "isModified" : true,
+  "modificationDate" : "2019-08-22T07:31:12.71Z",
+  "resourceKey" : "Marketplace.Translations.Shared.ReadMore",
+  "translations" : [
+  {
+    "language" : "en",
+    "resourceId" : 37,
+    "value" : "Weiterlesen"
+  }]
+},
+
+{
+  "author" : "type-scanner",
+  "id" : 38,
+  "isHidden" : false,
+  "isModified" : true,
+  "modificationDate" : "2019-08-22T07:44:20.463Z",
+  "resourceKey" : "Marketplace.Translations.Shared.ShowMore",
+  "translations" : [
+  {
+    "language" : "en",
+    "resourceId" : 38,
+    "value" : "Zeig mehr"
+  }]
+}]
