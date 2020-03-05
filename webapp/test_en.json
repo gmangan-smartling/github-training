@@ -1,12 +1,4 @@
-[  
-{
-    "smartling": {
-      "translate_paths": {
-        "path": "translations/value",
-        "key": "/resourceKey"
-      }
-  }
-},
+[
     {
         "author": "type-scanner",
         "fromCode": true,
