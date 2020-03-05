@@ -28,4 +28,19 @@
     "resourceId" : 38,
     "value" : "Показать больше"
   }]
+},
+
+{
+  "author" : "type-scanner",
+  "id" : 38,
+  "isHidden" : false,
+  "isModified" : true,
+  "modificationDate" : "2019-08-22T07:44:20.463Z",
+  "resourceKey" : "Marketplace.Translations.Shared.ShowMore",
+  "translations" : [
+  {
+    "language" : "en",
+    "resourceId" : 38,
+    "value" : "Не могу дождаться выходных."
+  }]
 }]
