@@ -1,0 +1,2 @@
+/* Text informing the user of the amount they will save with the yearly payment plan. Example: Save 50% */
+"Save {0}%" = "Save {0}%";
